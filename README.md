@@ -6,12 +6,15 @@
 
 Programming language:
 * **Python**
+
 Framework:
 * **PyTorch**
+
 Dependency manager:
 * **Poetry**
+
 Containerization platform:
 * **Docker**
+
 Web hosting service:
 * **GitHub**
-
