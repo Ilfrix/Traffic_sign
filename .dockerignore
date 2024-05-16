@@ -1,0 +1,6 @@
+Test/
+Train/
+Meta/
+Makefile
+my_model.h5
+gui.py
