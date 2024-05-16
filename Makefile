@@ -3,4 +3,4 @@ run: setup
 
 setup:
 	python -m venv venv . venv/bin/activate
-	Script/pip install -r requirements.t
+	Scripts/pip install -r requirements.txt
