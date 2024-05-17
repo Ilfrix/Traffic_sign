@@ -8,7 +8,7 @@
 * **Python**
 
 Фреймворк:
-* **PyTorch**
+* **TensorFlow**
 
 Менеджер зависимостей:
 * **Poetry**
